@@ -3,7 +3,7 @@
 Tradução para português do Brasil do *NIOSH Pocket Guide to Chemical Hazards*
 (DHHS/NIOSH, publicação nº 2005-149, 3ª impressão).
 
-**Site:** https://niosh.atabela.com.br
+**Site:** https://joaoricardo000.github.io/niosh/
 
 ## Sobre
 - Tradução das ~677 fichas de substâncias + tabelas, apêndices e índices.
