@@ -1,0 +1,301 @@
+<!-- pag. orig. 417 -->
+
+## Índice de Nomes Químicos, Sinônimos e Nomes Comerciais (Continuação)
+
+(Os nomes químicos primários aparecem em texto azul.)
+
+- Borates, tetra, sodium salts (Decahydrate) — 30
+- Borates, tetra, sodium salts (Pentahydrate) — 31
+- Borax — 30
+- Borax decahydrate — 30
+- Borax dehydrated — 30
+- Borax pentahydrate — 31
+- Boroethane — 93
+- Boron bromide — 32
+- Boron fluoride — 32
+- Boron hydride — 93
+- Boron oxide — 31
+- Boron tribromide — 32
+- Boron trifluoride — 32
+- Bottled gas — 263
+- BPL — 265
+- Bromacil — 33
+- Bromine — 33
+- Bromine fluoride — 34
+- Bromine pentafluoride — 34
+- 5-Bromo-3-sec-butyl-6-methyluracil — 33
+- Bromochloromethane — 63
+- 1-Bromo-1-chloro-2,2,2-trifluoroethane — 156
+- 2-Bromo-2-chloro-1,1,1-trifluoroethane — 156
+- Bromoethane — 134
+- Bromoethene — 330
+- Bromoethylene — 330
+- Bromoform — 34
+- Bromomethane — 201
+- 5-Bromo-6-methyl-3-(1-methylpropyl)uracil — 33
+- Bromotrifluoromethane — 318
+- Burned lime — 48
+- Burnt lime — 48
+- Butadiene — 35
+- 1,3-Butadiene — 35
+- n-Butane — 35
+- normal-Butane — 35
+- Butanedinitrile — 288
+- Butanenitrile — 44
+- Butanethiol — 43
+- 1-Butanethiol — 43
+- n-Butanethiol — 43
+- 1-Butanol — 39
+- 2-Butanol — 40
+- n-Butanol — 39
+- 2-Butanone — 36
+- 2-Butanone peroxide — 209
+- 2-Butenal — 80
+- cis-Butenedioic anhydride — 189
+- 2-Butoxyethanol — 36
+- 2-Butoxyethanol acetate — 37
+- 2-Butoxyethyl acetate — 37
+- Butter yellow — 112
+- Butyl acetate — 37
+- n-Butyl acetate — 37
+- sec-Butyl acetate — 38
+- tert-Butyl acetate — 38
+- Butyl acrylate — 39
+- n-Butyl acrylate — 39
+- Butyl alcohol — 39
+- n-Butyl alcohol — 39
+- sec-Butyl alcohol — 40
+- tert-Butyl alcohol — 40
+- Butylamine — 41
+- n-Butylamine — 41
+- Butylated hydroxytoluene — 94
+- Butyl Cellosolve® — 36
+- Butyl Cellosolve® acetate — 37
+- 4-t-Butyl-2-chlorophenylmethyl methylphosphoramidate — 80
+- tert-Butyl chromate — 41
+- Butylene hydrate — 40
+
+<!-- pag. orig. 418 -->
+
+- n-Butyl ester of acetic acid — 37
+- sec-Butyl ester of acetic acid — 38
+- tert-Butyl ester of acetic acid — 38
+- Butyl ester of acrylic acid — 39
+- di-tert-Butyl ester of chromic acid — 41
+- Butyl ester of 2-hydroxypropanoic acid — 42
+- Butyl ester of lactic acid — 42
+- Butyl ethanoate — 37
+- Butyl ethyl ketone — 134
+- n-Butyl glycidyl ether — 42
+- Butyl glycol acetate — 37
+- Butyl hydride — 35
+- Butyl lactate — 42
+- n-Butyl lactate — 42
+- n-Butyl mercaptan — 43
+- Butyl methyl ketone — 164
+- Butyl oxitol — 36
+- 2-sec-Butylphenol — 43
+- o-sec-Butylphenol — 43
+- Butyl phosphate — 314
+- Butyl-2-propenoate — 39
+- 4-tert-Butyltoluene — 44
+- p-tert-Butyltoluene — 44
+- tert-Butyl valone — 259
+- Butyrone — 123
+- Butyronitrile — 44
+- n-Butyronitrile — 44
+- Cadmium dust (as Cd) — 45
+- Cadmium fume (as Cd) — 45
+- Cadmium metal — 45
+- Cadmium monoxide — 45
+- Cadmium oxide fume — 45
+- Calcium arsenate (as As) — 46
+- Calcium carbimide — 47
+- Calcium carbonate — 46
+- Calcium carbonate [Limestone] — 186
+- Calcium carbonate [Marble] — 192
+- Calcium cyanamide — 47
+- Calcium hydrate — 47
+- Calcium hydrosilicate — 48
+- Calcium hydroxide — 47
+- Calcium metasilicate — 48
+- Calcium monosilicate — 48
+- Calcium oxide — 48
+- Calcium salt (2:3) of arsenic acid — 46
+- Calcium salt of carbonic acid — 46
+- Calcium salt of silicic acid — 48
+- Calcium salt of sulfuric acid — 49
+- Calcium silicate — 48
+- Calcium sulfate — 49
+- Calcium(II) sulfate dihydrate — 155
+- Calcium sulfate hemihydrate — 260
+- 2-Camphonone — 49
+- Camphor (synthetic) — 49
+- Cane sugar — 288
+- Caprolactam — 50
+- epsilon-Caprolactam — 50
+- Captane — 51
+- Captafol — 50
+- Captan — 51
+- Captofol — 50
+- Carbamaldehyde — 149
+- Carbaryl — 51
+- Carbicron® — 103
+- Carbimide — 81
+- Carbinol — 200
+- Carbodiimide — 81
+- Carbofuran — 52
+- Carbolic acid — 248
+- Carbomethene — 185
+- 2-Carbomethoxy-1-methylvinyl dimethyl phosphate — 253
+- Carbonate magnesium — 188
+- Carbon bisulfide — 53
+
+<!-- pag. orig. 419 -->
+
+- Carbon black — 52
+- Carbon bromide — 54
+- Carbon chloride — 55
+- Carbon difluoride oxide — 55
+- Carbon dioxide — 53
+- Carbon disulfide — 53
+- Carbon fluoride oxide — 55
+- Carbon hexachloride — 159
+- Carbonic acid gas — 53
+- Carbon monoxide — 54
+- Carbon nitride — 82
+- Carbon oxide — 54
+- Carbon oxychloride — 253
+- Carbon oxyfluoride — 55
+- Carbon silicide — 279
+- Carbon tet — 55
+- Carbon tetrabromide — 54
+- Carbon tetrachloride — 55
+- Carbonyl chloride — 253
+- Carbonyl dichloride — 253
+- Carbonyl difluoride — 55
+- Carbonyl fluoride — 55
+- di-mu-Carbonylhexacarbonyldicobalt — 74
+- Carborundum® — 279
+- Carboxyethane — 266
+- 4-Carboxyphthalic anhydride — 319
+- Catechol — 56
+- Caustic lime — 47
+- Caustic soda — 284
+- CB — 63
+- CBM — 63
+- Cellosolve® — 130
+- Cellosolve® acetate — 131
+- Cellulose — 56
+- Celtium — 156
+- Cement — 262
+- Cemented tungsten carbide — 325
+- Cemented WC — 325
+- Cesium hydrate — 57
+- Cesium hydroxide — 57
+- Cesium hydroxide dimer — 57
+- Cetyl mercaptan — 160
+- CFC 113 — 317
+- Channel black — 52
+- China clay — 183
+- Chlorcyan — 82
+- Chlordan — 57
+- Chlordane — 57
+- Chlordano — 57
+- Chlordecone — 184
+- Chlorinated camphene — 58
+- Chlorinated diphenyl oxide — 58
+- Chlorine — 59
+- Chlorine cyanide — 82
+- Chlorine dioxide — 59
+- Chlorine fluoride — 60
+- Chlorine fluoride oxide — 246
+- Chlorine oxide — 59
+- Chlorine oxyfluoride — 246
+- Chlorine peroxide — 59
+- Chlorine trifluoride — 60
+- Chloroacetaldehyde — 60
+- Chloroacetaldehyde (40% aqueous solution) — 60
+- 2-Chloroacetaldehyde — 60
+- Chloroacetic acid chloride — 61
+- Chloroacetic chloride — 61
+- 2-Chloroacetophenone — 61
+- α-Chloroacetophenone — 61
+- Chloroacetyl chloride — 61
+- 3-Chloroallyl chloride — 101
+- 2-Chlorobenzalmalonitrile — 62
+- Chlorobenzene — 62
+- Chlorobenzol — 62
+
+<!-- pag. orig. 420 -->
+
+- o-Chlorobenzylidene malononitrile — 62
+- Chlorobromomethane — 63
+- Chlorobutadiene — 68
+- 2-Chloro-1,3-butadiene — 68
+- Chlorocamphene — 58
+- Chlorochromic anhydride — 72
+- Chlorocyanide — 82
+- Chlorocyanogen — 82
+- 1-Chloro-2,3-dibromopropane — 93
+- Chlorodifluoromethane — 63
+- 2-Chloro-1-(difluoromethoxy)-1,1,2-trifluoroethane — 128
+- Chlorodimethyl ether — 66
+- Chlorodiphenyl (42% chlorine) — 64
+- Chlorodiphenyl (54% chlorine) — 64
+- 1-Chloro-2,3-epoxypropane — 128
+- Chloroethane — 135
+- 2-Chloroethanal — 60
+- 2-Chloroethanol — 135
+- Chloroethene — 330
+- 1-Chloro-2-ethenylbenzene — 68
+- 2-Chloroethyl alcohol — 135
+- 2-Chloro-4-ethylamino-6-isopropylamino-s-triazine — 23
+- Chloroethylene — 330
+- bis(2-Chloroethyl)ether — 100
+- 6-Chloro-N-ethyl-N'-(1-methylethyl)-1,3,5-triazine-2,4-diamine — 23
+- Chlorofluorocarbon 113 — 317
+- Chloroform — 65
+- Chloroformic acid dimethylamide — 114
+- Chloroformyl chloride — 253
+- Chloromethane — 203
+- Chloromethoxymethane — 66
+- Chloromethylbenzene — 28
+- 1-Chloro-2-methylbenzene — 69
+- 2-Chloro-1-methylbenzene — 69
+- Chloromethyl ether — 65
+- bis-Chloromethyl ether — 65
+- Chloromethyl methyl ether — 66
+- Chloromethyl phenyl ketone — 61
+- 4-Chloronitrobenzene — 227
+- p-Chloronitrobenzene — 227
+- 1-Chloro-4-nitrobenzene — 227
+- 1-Chloro-1-nitropropane — 66
+- Chloropentafluoroethane — 67
+- Chloropicrin — 67
+- Chloroprene — 68
+- β-Chloroprene — 68
+- 1-Chloro-2-propene — 10
+- 3-Chloropropene — 10
+- 3-Chloropropylene — 10
+- 2-Chloropropylene oxide — 128
+- γ-Chloropropylene oxide — 128
+- Chlorpyrifos-ethyl — 70
+- 2-Chlorostyrene — 68
+- o-Chlorostyrene — 68
+- ortho-Chlorostyrene — 68
+- Chlorothene — 203
+- 2-Chlorotoluene — 69
+- o-Chlorotoluene — 69
+- α-Chlorotoluene — 28
+- 2-Chloro-6-trichloromethyl pyridine — 69
+- 2-Chloro-6-(trichloromethyl)pyridine — 69
+- Chlorotrifluoride — 60
+- 2-Chloro-1,1,2-trifluoroethyl difluoromethyl ether — 128
+- Chlorpyrifos — 70
+- Chrome — 72
+- Chromic acid (CrO3) — 70
+- Chromic acid and chromates — 70
+- Chromic anhydride — 70
+- Chromic oxide — 70
+- Chromic oxychloride — 72

@@ -1,0 +1,11 @@
+# ambiente
+venv/
+__pycache__/
+*.pyc
+.claude/
+.DS_Store
+
+# intermediários reproduzíveis (gerados a partir do PDF / dos chunks)
+scratchpad/
+*.bak
+out.bak.*
